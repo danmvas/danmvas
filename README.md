@@ -1,4 +1,9 @@
-### Hi there 👋
+### Oh, hi! My name is Dan!
+
+- 🔭 My areas of interests include UX/UI and game design;
+- 🌱 Currently working on two games;
+- 💬 I like to code in JavaScript, Python, Java and C++!
+- 📫 Reach me at daniellavasconc@gmail.com;
 
  <div>
 
