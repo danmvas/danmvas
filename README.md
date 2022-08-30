@@ -2,7 +2,7 @@
 
 - 🔭 My areas of interest include UX/UI and game design;
 - 🌱 Currently working on two games;
-- 💬 I like to code in Vue.JS, JavaScript, Python and C#!
+- 💬 I like to code in VueJS, Python and C#!
 - 📫 Reach me at daniellavasconc@gmail.com;
 
  <div>
