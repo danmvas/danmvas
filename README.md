@@ -1,6 +1,6 @@
 ### Oh, hi! My name is Dan!
 
-- 🔭 My areas of interest include UX/UI and game design;
+- 🔭 My areas of interest include UX/UI, machine learning and game design;
 - 🌱 Currently working on two games;
 - 💬 I like to code in VueJS, Python and C#!
 - 📫 Reach me at daniellavasconc@gmail.com;
