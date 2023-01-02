@@ -1,8 +1,8 @@
 ### Oh, hi! My name is Dan!
 
 - 🔭 My areas of interest include UX/UI, machine learning and game design;
-- 🌱 Currently working on two games;
-- 💬 I like to code in VueJS, Python and C#!
+- 🌱 Currently working on a game;
+- 💬 I like to code in JavaScript (VueJS), Python (Django REST) and C#!
 - 📫 Reach me at daniellavasconc@gmail.com;
 
  <div>
