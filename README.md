@@ -2,7 +2,7 @@
 
 - 🔭 My areas of interest include UX/UI, machine learning and game design;
 - 🌱 Currently working on a game;
-- 💬 I like to code in JavaScript (VueJS), Python (Django REST) and C#!
+- 💬 I like to code in VueJS, ReactJS and Python (Django REST)!
 - 📫 Reach me at daniellavasconc@gmail.com;
 
  <div>
