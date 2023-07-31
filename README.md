@@ -1,6 +1,6 @@
 ### Oh, hi! My name is Dan!
 
-- 🔭 My areas of interest include data research, UX research and game design;
+- 🔭 My areas of interest include data research, fullstack development, UX research and game design;
 - 🌱 Currently working on a game;
 - 💬 I like to code in VueJS, ReactJS and Python (Django REST)!
 - 📫 Reach me at daniellavasconc@gmail.com;
