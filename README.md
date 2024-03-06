@@ -1,5 +1,7 @@
 ### Oh, hi! My name is Dan!
 
+- 🎓 I have a bachelor degree in Computer Science from State University of Santa Catarina (UDESC)
+- 📚 On my way to pursue a master's degree from Federal University of Paraná (UFPR)
 - 🔭 My areas of interest include data research, fullstack web development and game development;
 - 🌱 Currently working on a game;
 - 💬 I like to code in Python and TypeScript (but mostly Angular);
