@@ -2,8 +2,7 @@
 
 - 🎓 I have a bachelor degree in Computer Science from State University of Santa Catarina (UDESC);
 - 📚 On my way to pursue a master's degree in Computer Science at Federal University of Paraná (UFPR);
-- 🔭 My areas of interest include cybersecurity, data science, fullstack web development and game development;
-- 🌱 Currently working on a game;
+- 🔭 My areas of interest include cybersecurity and fullstack web development;
 - 💬 I like to code in Python and TypeScript (but mostly Angular);
 - 📫 Reach me at daniellavasconc@gmail.com;
 
